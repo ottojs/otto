@@ -5,7 +5,7 @@
   "main" : "./lib/index.js",
   "dependencies" : {
     "otto-app"    : "0.1.0",
-    "otto-server" : "0.0.2"
+    "otto-server" : "0.1.0"
   },
   "devDependencies" : {
     "jshint"    : "2.5.10",
