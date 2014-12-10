@@ -21,4 +21,8 @@ describe('Module Exports', function () {
     subject.should.have.property('tools').and.be.type('object');
   });
 
+  it('should export errors as object', function () {
+    subject.should.have.property('errors').and.be.type('object');
+  });
+
 });
