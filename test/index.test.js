@@ -25,4 +25,8 @@ describe('Module Exports', function () {
     subject.should.have.property('errors').and.be.type('object');
   });
 
+  it('should export authentication as object', function () {
+    subject.should.have.property('authentication').and.be.type('object');
+  });
+
 });
