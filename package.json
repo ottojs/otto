@@ -8,6 +8,7 @@
     "otto-server"         : "0.1.0",
     "otto-tools"          : "0.1.0",
     "otto-errors"         : "0.1.0",
+    "otto-request"        : "0.1.0",
     "otto-authentication" : "0.1.0"
   },
   "devDependencies" : {
