@@ -5,7 +5,7 @@
   "repository" : "https://github.com/ottojs/otto.git",
   "main" : "./lib/index.js",
   "dependencies" : {
-    "otto-app"            : "0.2.0",
+    "otto-app"            : "0.3.1",
     "otto-server"         : "0.2.0",
     "otto-tools"          : "0.2.0",
     "otto-errors"         : "0.2.0",
