@@ -5,19 +5,19 @@
   "repository" : "https://github.com/ottojs/otto.git",
   "main" : "./lib/index.js",
   "dependencies" : {
-    "otto-app"            : "0.3.2",
-    "otto-server"         : "0.2.0",
-    "otto-tools"          : "0.2.0",
-    "otto-errors"         : "0.2.0",
-    "otto-request"        : "0.2.0",
-    "otto-response"       : "0.4.0",
-    "otto-authentication" : "0.2.0"
+    "otto-app"            : "0.4.0",
+    "otto-server"         : "0.4.0",
+    "otto-tools"          : "0.4.0",
+    "otto-errors"         : "0.4.0",
+    "otto-request"        : "0.4.0",
+    "otto-response"       : "0.4.2",
+    "otto-authentication" : "0.4.0"
   },
   "devDependencies" : {
-    "jshint"    : "2.8.0",
-    "mocha"     : "2.2.5",
-    "should"    : "7.0.4",
-    "istanbul"  : "0.3.18"
+    "jshint"    : "2.9.4",
+    "mocha"     : "3.2.0",
+    "should"    : "11.2.1",
+    "istanbul"  : "0.4.5"
   },
   "scripts" : {
     "test" : "make test"
